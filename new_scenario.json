@@ -1,0 +1,631 @@
+{
+  "name": "projects/gen-lang-client-0666269080/databases/ai-studio-ae82afb5-5a04-4b42-91ec-9f2840836427/documents/scenarios/justerd9ldn",
+  "fields": {
+    "createdAt": {
+      "timestampValue": "2026-07-17T03:48:37.906Z"
+    },
+    "updatedAt": {
+      "timestampValue": "2026-07-21T15:35:32.663Z"
+    },
+    "simulations": {
+      "arrayValue": {
+        "values": [
+          {
+            "mapValue": {
+              "fields": {
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "cajeroCount": {
+                        "integerValue": "2"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "3"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "120"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "4"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "70"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "25011"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "3"
+                      },
+                      "valetCost": {
+                        "integerValue": "8000"
+                      },
+                      "segundoCost": {
+                        "integerValue": "28011"
+                      },
+                      "totalInvestmentMxn": {
+                        "integerValue": "2090000"
+                      },
+                      "encargadoCost": {
+                        "integerValue": "31092"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "21"
+                      },
+                      "ordersPerDaySept": {
+                        "integerValue": "90"
+                      },
+                      "rentMxn": {
+                        "integerValue": "33598"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "8"
+                      },
+                      "stewardCost": {
+                        "integerValue": "8000"
+                      },
+                      "encargadoCount": {
+                        "integerValue": "1"
+                      },
+                      "cancellationsPercent": {
+                        "doubleValue": 0.5
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "310"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "25"
+                      },
+                      "valetCount": {
+                        "integerValue": "0"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "3"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "23575"
+                      },
+                      "stewardCount": {
+                        "integerValue": "0"
+                      }
+                    }
+                  }
+                },
+                "name": {
+                  "stringValue": "Interlomas"
+                },
+                "id": {
+                  "stringValue": "1777308007237"
+                },
+                "country": {
+                  "stringValue": "MX"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "name": {
+                  "stringValue": "Londres"
+                },
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "encargadoCost": {
+                        "integerValue": "30314"
+                      },
+                      "segundoCost": {
+                        "integerValue": "27232"
+                      },
+                      "totalInvestmentMxn": {
+                        "integerValue": "3350000"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "50"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "120"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "4"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "5"
+                      },
+                      "cajeroCount": {
+                        "integerValue": "2"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "4"
+                      },
+                      "valetCost": {
+                        "integerValue": "8000"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "24232"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "3"
+                      },
+                      "valetCount": {
+                        "integerValue": "0"
+                      },
+                      "stewardCount": {
+                        "integerValue": "0"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "22797"
+                      },
+                      "rentMxn": {
+                        "integerValue": "119998"
+                      },
+                      "ordersPerDaySept": {
+                        "integerValue": "65"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "21"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "26"
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "320"
+                      },
+                      "cancellationsPercent": {
+                        "doubleValue": 0.5
+                      },
+                      "stewardCost": {
+                        "integerValue": "8000"
+                      },
+                      "encargadoCount": {
+                        "integerValue": "1"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "10"
+                      }
+                    }
+                  }
+                },
+                "id": {
+                  "stringValue": "1777308355134"
+                },
+                "country": {
+                  "stringValue": "MX"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "id": {
+                  "stringValue": "amsterdam-restored-1784258348079"
+                },
+                "country": {
+                  "stringValue": "MX"
+                },
+                "name": {
+                  "stringValue": "Amsterdam"
+                },
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "totalInvestmentMxn": {
+                        "integerValue": "500000"
+                      },
+                      "segundoCost": {
+                        "integerValue": "21713"
+                      },
+                      "encargadoCost": {
+                        "integerValue": "30528"
+                      },
+                      "cajeroCount": {
+                        "integerValue": "5"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "7"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "150"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "3"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "50"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "20093"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "valetCost": {
+                        "integerValue": "22000"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "3"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "4"
+                      },
+                      "valetCount": {
+                        "integerValue": "1"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "18658"
+                      },
+                      "stewardCount": {
+                        "integerValue": "1"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "20"
+                      },
+                      "ordersPerDaySept": {
+                        "integerValue": "75"
+                      },
+                      "rentMxn": {
+                        "integerValue": "125000"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "10"
+                      },
+                      "stewardCost": {
+                        "integerValue": "11284"
+                      },
+                      "encargadoCount": {
+                        "integerValue": "2"
+                      },
+                      "cancellationsPercent": {
+                        "doubleValue": 0.5
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "350"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "26"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "id": {
+                  "stringValue": "narvarte-restored-1784258562784"
+                },
+                "country": {
+                  "stringValue": "MX"
+                },
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "cajeroCount": {
+                        "integerValue": "3"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "135"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "3"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "2"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "80"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "20093"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "5"
+                      },
+                      "valetCost": {
+                        "integerValue": "8000"
+                      },
+                      "segundoCost": {
+                        "integerValue": "21713"
+                      },
+                      "totalInvestmentMxn": {
+                        "integerValue": "500000"
+                      },
+                      "encargadoCost": {
+                        "integerValue": "23414"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "20"
+                      },
+                      "rentMxn": {
+                        "integerValue": "55000"
+                      },
+                      "ordersPerDaySept": {
+                        "integerValue": "58"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "12"
+                      },
+                      "cancellationsPercent": {
+                        "doubleValue": 0.5
+                      },
+                      "encargadoCount": {
+                        "integerValue": "1"
+                      },
+                      "stewardCost": {
+                        "integerValue": "8000"
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "250"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "28"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "4"
+                      },
+                      "valetCount": {
+                        "integerValue": "0"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "18658"
+                      },
+                      "stewardCount": {
+                        "integerValue": "0"
+                      }
+                    }
+                  }
+                },
+                "name": {
+                  "stringValue": "Narvarte"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "name": {
+                  "stringValue": "Cumbres"
+                },
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "ordersPerDaySept": {
+                        "integerValue": "70"
+                      },
+                      "rentMxn": {
+                        "integerValue": "50000"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "20"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "28"
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "300"
+                      },
+                      "stewardCost": {
+                        "integerValue": "8000"
+                      },
+                      "encargadoCount": {
+                        "integerValue": "1"
+                      },
+                      "cancellationsPercent": {
+                        "integerValue": "2"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "3"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "5"
+                      },
+                      "valetCount": {
+                        "integerValue": "0"
+                      },
+                      "stewardCount": {
+                        "integerValue": "0"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "13000"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "80"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "1"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "2"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "80"
+                      },
+                      "cajeroCount": {
+                        "integerValue": "2"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "2"
+                      },
+                      "valetCost": {
+                        "integerValue": "8000"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "10000"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "encargadoCost": {
+                        "integerValue": "16000"
+                      },
+                      "segundoCost": {
+                        "integerValue": "14000"
+                      },
+                      "totalInvestmentMxn": {
+                        "integerValue": "500000"
+                      }
+                    }
+                  }
+                },
+                "country": {
+                  "stringValue": "MX"
+                },
+                "id": {
+                  "stringValue": "cumbres-restored-1784258562784"
+                }
+              }
+            }
+          },
+          {
+            "mapValue": {
+              "fields": {
+                "params": {
+                  "mapValue": {
+                    "fields": {
+                      "cajeroCount": {
+                        "integerValue": "2"
+                      },
+                      "otherFixedPercent": {
+                        "integerValue": "2"
+                      },
+                      "ordersPerDay": {
+                        "integerValue": "80"
+                      },
+                      "directMarketingPercent": {
+                        "integerValue": "1"
+                      },
+                      "deliveryAppOrdersPercent": {
+                        "integerValue": "80"
+                      },
+                      "segundoCount": {
+                        "integerValue": "1"
+                      },
+                      "taxPercent": {
+                        "integerValue": "16"
+                      },
+                      "cajeroCost": {
+                        "integerValue": "10000"
+                      },
+                      "daysOpen": {
+                        "integerValue": "30"
+                      },
+                      "valetCost": {
+                        "integerValue": "8000"
+                      },
+                      "cocineroCount": {
+                        "integerValue": "2"
+                      },
+                      "segundoCost": {
+                        "integerValue": "14000"
+                      },
+                      "totalInvestmentMxn": {
+                        "integerValue": "500000"
+                      },
+                      "encargadoCost": {
+                        "integerValue": "16000"
+                      },
+                      "deliveryAppCommRate": {
+                        "integerValue": "20"
+                      },
+                      "rentMxn": {
+                        "integerValue": "50000"
+                      },
+                      "ordersPerDaySept": {
+                        "integerValue": "70"
+                      },
+                      "marketingPercent": {
+                        "integerValue": "3"
+                      },
+                      "cancellationsPercent": {
+                        "integerValue": "2"
+                      },
+                      "stewardCost": {
+                        "integerValue": "8000"
+                      },
+                      "encargadoCount": {
+                        "integerValue": "1"
+                      },
+                      "avgTicketMxn": {
+                        "integerValue": "300"
+                      },
+                      "cogsFoodPercent": {
+                        "integerValue": "28"
+                      },
+                      "utilitiesPercent": {
+                        "integerValue": "5"
+                      },
+                      "valetCount": {
+                        "integerValue": "0"
+                      },
+                      "cocineroCost": {
+                        "integerValue": "13000"
+                      },
+                      "stewardCount": {
+                        "integerValue": "0"
+                      }
+                    }
+                  }
+                },
+                "name": {
+                  "stringValue": "Cielo Abierto"
+                },
+                "id": {
+                  "stringValue": "cielo-abierto-restored-1784258562784"
+                },
+                "country": {
+                  "stringValue": "MX"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "createTime": "2026-07-17T03:48:37.970605Z",
+  "updateTime": "2026-07-21T15:35:32.680597Z"
+}

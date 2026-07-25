@@ -1,0 +1,40 @@
+{
+  "entities": {
+    "simulations": {
+      "title": "simulations",
+      "description": "Shared configurations for simulations.",
+      "type": "object",
+      "properties": {
+        "ordersPerDay": { "type": "number" },
+        "avgTicketMxn": { "type": "number" },
+        "daysOpen": { "type": "number" },
+        "taxPercent": { "type": "number" },
+        "cancellationsPercent": { "type": "number" },
+        "cogsFoodPercent": { "type": "number" },
+        "deliveryAppOrdersPercent": { "type": "number" },
+        "deliveryAppCommRate": { "type": "number" },
+        "rentMxn": { "type": "number" },
+        "encargadoCount": { "type": "number" },
+        "encargadoCost": { "type": "number" },
+        "segundoCount": { "type": "number" },
+        "segundoCost": { "type": "number" },
+        "cocineroCount": { "type": "number" },
+        "cocineroCost": { "type": "number" },
+        "cajeroCount": { "type": "number" },
+        "cajeroCost": { "type": "number" },
+        "utilitiesPercent": { "type": "number" },
+        "marketingPercent": { "type": "number" },
+        "directMarketingPercent": { "type": "number" },
+        "otherFixedPercent": { "type": "number" },
+        "totalInvestmentMxn": { "type": "number" },
+        "createdAt": { "type": "string" }
+      }
+    }
+  },
+  "firestore": {
+    "/simulations/{simulationId}": {
+      "schema": { "$ref": "#/entities/simulations" },
+      "description": "Configurations shared via URL"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Foodology P&L Calculator",
+  "description": "Una aplicación para calcular el EBITDA esperado de nuevas aperturas de puntos de venta de Foodology (Dark Kitchens).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
